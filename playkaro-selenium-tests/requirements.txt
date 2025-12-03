@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pytest
+
+
+To run in terminal, execute commands:  (ran separately as a separate project folder)
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+venv\Scripts\Activate
+pytest -q
