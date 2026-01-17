@@ -67,9 +67,9 @@ src/
 
 ## Screenshots
 
-![Authentication](screenshots/authentication.png)
-![Video Discovery](screenshots/discovervideo.png)
-![Admin Dashboard](screenshots/admin_dashboard.png)
-![Video Upload](screenshots/upload.png)
-![Video Playback](screenshots/playback.png)
+![Authentication](Screenshots/authentication.png)
+![Video Discovery](Screenshots/discovervideo.png)
+![Admin Dashboard](Screenshots/admin_dashboard.png)
+![Video Upload](Screenshots/upload.png)
+![Video Playback](Screenshots/playback.png)
 
